@@ -24,3 +24,14 @@ Development
   - Create a Test Certificate (Properties > Signing) to sign the extension, as shown [here](screenshots/DevSetup.png)
   - Set Outlook to open when debugging (Properties > Debug > Start external program > Outlook path)
   - Configure Publish settings as necessary 
+
+Credits
+-------
+   - [Basic Audio](http://basicaudio.codeplex.com/) for audio recording
+   - [LAME MP3](http://lame.sourceforge.net/) for MP3 conversion
+   - [Icons8](http://icons8.com) for application icons
+
+
+License
+--------
+Voice Email is licensed under the [MIT License](https://www.tldrlegal.com/l/mit), Copyright (c) 2014 Aditya Dalal
