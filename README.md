@@ -17,3 +17,10 @@ Features
   - Lightweight (about 2MB installed)
   - Fast conversion to space-saving format (LAME MP3 encoder)
 
+Development
+-----------
+  - Set up Visual Studio for Office extension development as shown  [here](http://msdn.microsoft.com/library/vstudio/bb398242.aspx)
+  - Clone or download this repository, and open the solution in the source folder.
+  - Create a Test Certificate (Properties > Signing) to sign the extension, as shown [here](screenshots/DevSetup.png)
+  - Set Outlook to open when debugging (Properties > Debug > Start external program > Outlook path)
+  - Configure Publish settings as necessary 
