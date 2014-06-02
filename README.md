@@ -19,11 +19,13 @@ Features
 
 Development
 -----------
-  - Set up Visual Studio for Office extension development as shown  [here](http://msdn.microsoft.com/library/vstudio/bb398242.aspx)
+  - Set up Visual Studio for Office extension development as shown [here](http://msdn.microsoft.com/library/vstudio/bb398242.aspx)
   - Clone or download this repository, and open the solution in the source folder.
   - Create a Test Certificate (Properties > Signing) to sign the extension, as shown [here](screenshots/DevSetup.png)
   - Set Outlook to open when debugging (Properties > Debug > Start external program > Outlook path)
-  - Configure Publish settings as necessary 
+  - Configure Publish settings as necessary
+  - Add lame.exe and BasicAudio.dll to "path" on [target system](screenshots/OutputFolder.png)
+  - Verify installation of addon in [Outlook](screenshots/OutlookOptions.png)
 
 Credits
 -------
@@ -34,4 +36,4 @@ Credits
 
 License
 --------
-Voice Email is licensed under the [MIT License](https://www.tldrlegal.com/l/mit), Copyright (c) 2014 Aditya Dalal
+Voice Email is licensed under the [MIT License](https://www.tldrlegal.com/l/mit), copyright (c) 2014 Aditya Dalal
