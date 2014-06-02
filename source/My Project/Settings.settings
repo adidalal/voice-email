@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MessageText1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Change the sample text via Settings!</Value>
+    </Setting>
+    <Setting Name="path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\OutlookAddin\</Value>
+    </Setting>
+    <Setting Name="MessageText2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{Reply Text 2}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
